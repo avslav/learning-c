@@ -1,4 +1,4 @@
-/* Timing 10,000 loop iterations for C 
+/* Timing 10,000 while loop iterations for C 
 vs.
 Other langs such as Python and Java */
 
